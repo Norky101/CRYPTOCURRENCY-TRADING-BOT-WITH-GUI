@@ -183,7 +183,7 @@ sg.set_options(font=("Courier New", 20))
 
 #Buttons
 layout = [ 
-            [sg.Text("Welcome to your\nCrypto Command Launch Pad!\n\nSelect a command...")],
+            [sg.Text("Welcome to your\nCrypto Command Center!\n\nSelect a command...")],
             [sg.Button('Buy')],
             [sg.Button('Sell')],
             [sg.Button('Current Price')],

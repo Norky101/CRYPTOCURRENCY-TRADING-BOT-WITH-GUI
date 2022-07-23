@@ -7,3 +7,6 @@ This program utilizes the Coinbase Pro Sandbox API to autonomously execute marke
 ***Tech used***
 
 Python, Pandas and CoinBase Pro Sandbox API
+
+
+The functional GUI I created aka the Crypto Command Center

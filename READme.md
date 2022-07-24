@@ -8,12 +8,6 @@ This program utilizes the Coinbase Pro Sandbox API to autonomously execute a sel
 
 Python, Pandas, PysSimpleGUI, Requests, JSON, Jupyter Notebook, and, CoinBase Pro Sandbox API
 
-
-The functional GUI I created aka the Crypto Command Center:
-
-
-<img width="396" alt="Screen Shot 2022-07-22 at 8 11 21 PM" src="https://user-images.githubusercontent.com/82910305/180582622-43b22a18-853c-4844-802c-9c66af2bc06d.png">
-
 ***What did I learn?***
 
 Throughout this project, I faced many different challenges but I overcame them and learned a lot along the way. Firstly, I solved how to access and use the APIs requests/functions such as placing a market order trade. This is something I had not done before so I had to do a lot of reading and self-learning on how to utilize it effectively. If I did not solve this I would not be able to access my Coinbase Pro Trading Exchange account.
@@ -24,3 +18,8 @@ Thirdly, after some time and thinking, I realized my program is not very user-fr
  The Python package I used to create the GUI was called PySimpleGUI. I had not heard of this package before so I had to teach myeslf about it by reading the documentation. 
 
 Overall, I learnt a lot of new tech skills and how to think like a user and provide solutions to potential future problems.
+
+***The functional GUI I created aka the Crypto Command Center:***
+
+
+<img width="396" alt="Screen Shot 2022-07-22 at 8 11 21 PM" src="https://user-images.githubusercontent.com/82910305/180582622-43b22a18-853c-4844-802c-9c66af2bc06d.png">

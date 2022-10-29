@@ -24,7 +24,7 @@ Overall, I learnt a lot of new tech skills and how to think like a user and prov
 
 <img width="396" alt="Screen Shot 2022-07-22 at 8 11 21 PM" src="https://user-images.githubusercontent.com/82910305/180582622-43b22a18-853c-4844-802c-9c66af2bc06d.png">
 
-This is an example of the Coinbase Pro Sandbox tradeview homepage. 
+This is an example of the Coinbase Pro Sandbox tradeview homepage. This is where the function calls for buying, selling, and such will be shown. 
 **Not an image of my actual account homeview. 
 
 ![CB Pro Example of Trade view](https://user-images.githubusercontent.com/82910305/198843086-876c89a3-316d-4525-abad-3f8eccd2b7de.jpeg)

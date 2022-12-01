@@ -2,7 +2,11 @@
 
 ***What does it do?***
 
-This program utilizes the Coinbase Pro Sandbox API to autonomously execute a selection of functions, such as: placing a market buy order, a sell order, checking the 24-hour price percentage change, and more. This is made even easier by allowing the user to control these functions from an attractive and functional Graphical User Interface (GUI). In addition, this hands-off investing approach allows a user to limit their emotions when investing and spend more time doing other activities. Directly put, this program makes trading stress-free and more time efficient.
+This program utilizes the Coinbase Pro Sandbox API to autonomously execute a selection of functions, such as: placing a market buy order, a sell order, checking the 24-hour price percentage change, and more. 
+
+This has made trading even easier by allowing the user to control these functions from an attractive and functional Graphical User Interface (GUI). In addition, this hands-off investing approach allows a user to limit their emotions when investing and spend more time doing other activities. 
+
+Directly put, this program makes trading stress-free and more time efficient! 
 
 ***Tech used***
 

@@ -1,5 +1,9 @@
 ***CRYPTOCURRENCY-LIVE-TRADING-BOT***
 
+***Initial goal:***
+
+Decrease the amount of time logging in and setting up the environment so I could capitalize on a fast-moving market. 
+
 ***What does it do?***
 
 This program utilizes the Coinbase Pro Sandbox API to autonomously execute a selection of functions, such as: placing a market buy order, a sell order, checking the 24-hour price percentage change, and more. 

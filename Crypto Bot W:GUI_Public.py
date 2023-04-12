@@ -51,7 +51,7 @@ print ("Stream closed")
 
 
 
-# creates client variable
+# creates client object
 url='https://api-public.sandbox.pro.coinbase.com'
 
 client = cbpro.AuthenticatedClient(
@@ -69,13 +69,9 @@ def buy():
     return "Buy Complete"
 
 
-
-
 def sell():
     client.place_market_order(product_id='ETH-BTC',side='sell',funds=0.00003)
     return "Sell Complete"
-
-
 
 # AVERAGE PRCIE
 def average_price():
@@ -87,8 +83,6 @@ def average_price():
 
     
     return price
-
-
 
 # Displaying the price
 def price():
@@ -131,7 +125,7 @@ def percentage_change():
     return float(round(percent, 2))  # returns percent with 2 decimal places
 
 
-# GUI 
+# GUI--------------------------------------
 theme_name_list = sg.theme('DarkGreen')
 sg.set_options(font=("Courier New", 20))
 
